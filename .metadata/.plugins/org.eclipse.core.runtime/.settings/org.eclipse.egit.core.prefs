@@ -1,4 +1,4 @@
-GitRepositoriesView.GitDirectories=E\:\\programacion\\github\\back-end\\.git;
-GitRepositoriesView.GitDirectories.relative=.git;
-RepositorySearchDialogSearchPath=E\:\\programacion\\github\\back-end
+GitRepositoriesView.GitDirectories=E\:\\programacion\\github\\back-end\\.git;E\:\\programacion\\github\\front-end\\.git;
+GitRepositoriesView.GitDirectories.relative=.git;E\:\\programacion\\github\\front-end\\.git;
+RepositorySearchDialogSearchPath=E\:\\programacion\\github\\front-end
 eclipse.preferences.version=1
